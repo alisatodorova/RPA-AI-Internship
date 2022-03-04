@@ -1,2 +1,2 @@
 # RPA-AI-Internship
-All the programs I created during my RPA &amp; AI Internship at DigiTech Consult (https://digitechconsult.com). RPA stands for Robotic Process Automation.
+All the UiPath RPA softwares and DRUID AI chatbots I created during my RPA & AI Internship at DigiTech Consult (https://digitechconsult.com). RPA stands for Robotic Process Automation.
